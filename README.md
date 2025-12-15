@@ -1,6 +1,6 @@
 # Deploy ML models with FastAPI, Docker
 
-> Learn from Demo Video of Build ML model with FastAPI: https://www.youtube.com/watch?v=wKdCmfXk4sM
+> Learn from Demo Video — Build ML model with FastAPI: https://www.youtube.com/watch?v=wKdCmfXk4sM
 ---
 
 ### 1. Develop and save the model with this Colab
